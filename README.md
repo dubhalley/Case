@@ -193,26 +193,34 @@ Bus board from  [David Haillant](https://www.tindie.com/products/dhaillant/euror
 
 Bus connector from  [Reichelt](https://www.reichelt.com/fr/fr/barrette-broche-din-41651-16p-wsl-16g-p22822.html?r=1)
 
+<img src='Pictures/WSL_16G.jpg' width='200px'/>
+
 ## Technicals details : Module Power cable
 
 Manufacture of power cables for Eurorack modules : [Tuto on youtube](https://www.youtube.com/watch?v=40oXq8tCrBA)
 
+
 ## Technicals details : Power cable Connectors
-
-
-Suitable female connectors
 
 16-pin connector, but I also use 10-pin because some modules use this format.
 
 Connector from [Reichelt](https://www.reichelt.com/fr/fr/connecteur-femelle-selon-la-norme-din-41651-16p-pfl-16-p14573.html?r=1)
 
+<img src='Pictures/PFL_16.jpg' width='200px'/>
+
+
 ## Technicals details : Tool for Connectors 
 
 Tool from [Reichelt](https://www.reichelt.com/fr/fr/outil-d-emmanchement-pour-sub-d-et-pfl-mwz-214-p13300.html?r=1)
 
+<img src='Pictures/MWZ214.jpg' width='200px'/>
+
+
 ## Technicals details : Flat Cable
 
 Tool from [Farnell](https://fr.farnell.com/3m/3365-16/cable-en-nappe-16-voies-au-metre/dp/297318)
+
+<img src='Pictures/Cable_en_nappe.jpg' width='200px'/>
 
 
 ## Other box designs
