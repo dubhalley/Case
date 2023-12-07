@@ -124,7 +124,7 @@ One solution is a continuous nut/threaded insert M3 rail.
 
 The other is M3 square nuts that are slid into the rail.
 
-And I prefer threaded because it's laborious to find the nuts behind the modules, sometimes there are too many on one side, and you have to dismantle the modules to get them on the other side, etc. But that's just my opinion.
+And I prefer threaded because it's hard to find the nuts behind the modules, sometimes there are too many on one side, and you have to remove the modules to get them on the other side, etc. 
 
 But that's just my opinion :)
 
