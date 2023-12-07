@@ -195,7 +195,7 @@ Bus connector from  [Reichelt](https://www.reichelt.com/fr/fr/barrette-broche-di
 
 <img src='Pictures/WSL_16G.jpg' width='200px'/>
 
-## Technicals details : Module Power cable
+## Technicals details : Realize your module power cable
 
 Manufacture of power cables for Eurorack modules : [Tuto on youtube](https://www.youtube.com/watch?v=40oXq8tCrBA)
 
