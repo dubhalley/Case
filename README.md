@@ -228,7 +228,7 @@ Tool from [Farnell](https://fr.farnell.com/3m/3365-16/cable-en-nappe-16-voies-au
 
 You can even make your own cardboard box [Musicradar](https://www.musicradar.com/tuition/tech/how-to-build-your-own-cardboard-eurorack-modular-case-625196)
 
-Andrew from Non Linear Circuits even offers open-source plans for making your own cabinet using a laser cutter or CNC: [Thingiverse](https://www.thingiverse.com/nonlinearcircuits/designs)
+Nathan Thompson and Andrew from Non Linear Circuits even offers open-source plans for making your own cabinet using a laser cutter or CNC: [Thingiverse](https://www.thingiverse.com/nonlinearcircuits/designs)
 
 
 
