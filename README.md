@@ -39,8 +39,7 @@ The native Freecad files are in the folder: Freecad Files
 
 Here's a screenshot of the box I wanted to make.
 
-<img src='Pictures/01.1_Box_#1.png' width='200px'/>
-
+<img src='Pictures/01.1_Box_%231.png' width='200px'/>
 
 ## Plans
 
