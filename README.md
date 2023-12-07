@@ -73,27 +73,27 @@ Map of fablabs:  [Fablab](https://www.makery.info/labs-map/)
 
 ## Render
 
-<img src='05_Rendu.jpg' width='200px'/>
+<img src='Pictures/05_Rendu.jpg' width='200px'/>
 
 
 ## Woodstain
 
-<img src='06_Lasure.jpg' width='200px'/>
+<img src='Pictures/06_Lasure.jpg' width='200px'/>
 
 
 ## Render after woodstain
 
-<img src='07_Rendu_lasure.jpg' width='200px'/>
+<img src='Pictures/07_Rendu_lasure.jpg' width='200px'/>
 
 ## Rails
 
 * Rails purchased from:  but there are also many online suppliers. [clicksclocks](https://clicksclocks.de/)
 
-<img src='08_Rails.jpg' width='200px'/>
+<img src='Pictures/08_Rails.jpg' width='200px'/>
 
 * There are 2 different rail profiles, the newer ones (top) are shallower, but this has no effect.
 
-<img src='08.1_profil_de_rails.jpg' width='200px'/>
+<img src='Pictures/08.1_profil_de_rails.jpg' width='200px'/>
 
 
 ## Assembling Rails
@@ -110,12 +110,12 @@ The other has a domed head with a pitch unknown to me, and length 25, which is p
 
 Both work, the advantage of the countersunk head is that it doesn't protrude beyond the wooden side.
 
-<img src='09_Vis_de_fixations.jpg' width='200px'/>
+<img src='Pictures/09_Vis_de_fixations.jpg' width='200px'/>
 
 
 * The assembled rack, sorry the picture is a bit blurry
 
-<img src='10_Assemblage.jpg' width='200px'/>
+<img src='Pictures/10_Assemblage.jpg' width='200px'/>
 
 
 * You may notice that I've used rails with different module screwing systems.
@@ -135,14 +135,14 @@ Next, you'll need to cut the cleats that will ensure the rigidity of the cabinet
 
 Their cross-section must be at least 20 x 20 mm to ensure rigidity.
 
-<img src='11_Tasseaux_intermédiaires.jpg' width='200px'/>
+<img src='Pictures/11_Tasseaux_intermédiaires.jpg' width='200px'/>
 
 
 ## Tightening
 
 Setting up modules to align everything before final tightening of rails and cleats
 
-<img src='12_mise_en_place_avant_serrage.jpg' width='200px'/>
+<img src='Pictures/12_mise_en_place_avant_serrage.jpg' width='200px'/>
 
 
 ## Bottom plate
@@ -160,7 +160,7 @@ Eurorack power busses are those of David Haillant
 
 The ones on a strip-pasted plate that I re-tinned to reinforce the tin track with a copper wire core, this is my +/-15V ditribution bus, yes I know it's roots ^^
 
-<img src='13_alim.jpg' width='200px'/>
+<img src='Pictures/13_alim.jpg' width='200px'/>
 
 ## OPTIONAL
 
@@ -179,15 +179,15 @@ I added a cap with a ribbon of leds to make it look nice :)
 
 And I also took advantage of the laser engraver to put a Saturn on the front.
 
-<img src='19_fini2.jpg' width='200px'/>
+<img src='Pictures/19_fini2.jpg' width='200px'/>
 
-<img src='19_fini3.jpg' width='200px'/>
+<img src='Pictures/19_fini3.jpg' width='200px'/>
 
 ## Technicals details : Bus Board
 
 Bus board from  [David Haillant](https://www.tindie.com/products/dhaillant/eurorack-power-bus-26/)
 
-<img src='bus_eurorack-3d.jpg' width='200px'/>
+<img src='Pictures/bus_eurorack-3d.jpg' width='200px'/>
 
 ## Technicals details : Bus Connectors
 
